@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['reference_20applications_761',['Reference Applications',['../md__home_ai_jenkins_workspace_sw-main_doc_user_guides_a111_ref_app_ref_app_main.html',1,'']]],
+  ['radial_5fvelocity_762',['radial_velocity',['../structacc__obstacle__t.html#a256b6510cb83113f1253f1e319bf7428',1,'acc_obstacle_t']]],
+  ['range_5flength_5fm_763',['RANGE_LENGTH_M',['../ref__app__parking_8c.html#a9fb34ab1d9f1130136bc6851d495e2b0',1,'RANGE_LENGTH_M():&#160;ref_app_parking.c'],['../ref__app__wave__to__exit_8c.html#a9fb34ab1d9f1130136bc6851d495e2b0',1,'RANGE_LENGTH_M():&#160;ref_app_wave_to_exit.c']]],
+  ['range_5fstart_5fm_764',['RANGE_START_M',['../ref__app__parking_8c.html#a23130897aabdc47f26695a31100e4136',1,'RANGE_START_M():&#160;ref_app_parking.c'],['../ref__app__wave__to__exit_8c.html#a23130897aabdc47f26695a31100e4136',1,'RANGE_START_M():&#160;ref_app_wave_to_exit.c']]],
+  ['real_765',['real',['../structacc__int16__complex__t.html#a216b6f50470c8dc2b1b219fa0cb31ff7',1,'acc_int16_complex_t']]],
+  ['record_5fbackground_766',['record_background',['../example__detector__distance__recorded_8c.html#a545ceeb81dcfe1d8ab52cba40ae5d1ae',1,'record_background(acc_detector_distance_configuration_t distance_configuration):&#160;example_detector_distance_recorded.c'],['../ref__app__tank__level_8c.html#a1b38346b79b3e4b2bbb599743176b552',1,'record_background(acc_detector_distance_handle_t *distance_handle, acc_detector_distance_configuration_t distance_configuration, float *range_gain, uint16_t *background, uint16_t background_length):&#160;ref_app_tank_level.c']]],
+  ['record_5fbackgrounds_767',['record_backgrounds',['../ref__app__tank__level_8c.html#ab1a6c6e2c86b981a980905e1068357e9',1,'ref_app_tank_level.c']]],
+  ['ref_5fapp_5fmain_2emd_768',['ref_app_main.md',['../ref__app__main_8md.html',1,'']]],
+  ['ref_5fapp_5fparking_2ec_769',['ref_app_parking.c',['../ref__app__parking_8c.html',1,'']]],
+  ['ref_5fapp_5frf_5fcertification_5ftest_2ec_770',['ref_app_rf_certification_test.c',['../ref__app__rf__certification__test_8c.html',1,'']]],
+  ['ref_5fapp_5fsmart_5fpresence_2ec_771',['ref_app_smart_presence.c',['../ref__app__smart__presence_8c.html',1,'']]],
+  ['ref_5fapp_5ftank_5flevel_2ec_772',['ref_app_tank_level.c',['../ref__app__tank__level_8c.html',1,'']]],
+  ['ref_5fapp_5fwave_5fto_5fexit_2ec_773',['ref_app_wave_to_exit.c',['../ref__app__wave__to__exit_8c.html',1,'']]],
+  ['restart_5finput_774',['restart_input',['../structexploration__server__interface__t.html#aad8fc7e6c5525ee67f917517532745bb',1,'exploration_server_interface_t']]],
+  ['restart_5finput_5ffunction_5ft_775',['restart_input_function_t',['../acc__exploration__server__base_8h.html#ab2e63e2b17176e53b7ea465f51c5bab9',1,'acc_exploration_server_base.h']]],
+  ['restart_5fservice_776',['restart_service',['../example__error__handling_8c.html#a5d45c9e2b006f542e79d2966b9259cbd',1,'example_error_handling.c']]],
+  ['rpi_5fgpio_5fchipname_777',['RPI_GPIO_CHIPNAME',['../acc__libgpiod_8c.html#a56830392f0e03290d0422d079d2ed2bd',1,'acc_libgpiod.c']]],
+  ['radar_20system_20software_2c_20rss_778',['Radar System Software, RSS',['../group__RSS.html',1,'']]],
+  ['run_5ftest_779',['run_test',['../example__bring__up_8c.html#a1e6307b53e6eaff0385c6f4380c0b115',1,'example_bring_up.c']]],
+  ['running_5faverage_5ffactor_780',['RUNNING_AVERAGE_FACTOR',['../ref__app__parking_8c.html#aef2469a4237532592dc210a3b6383a65',1,'ref_app_parking.c']]],
+  ['running_5favg_781',['running_avg',['../structinput__t.html#a0a5584a2ca047a169d1ba46167305f03',1,'input_t']]],
+  ['runtime_782',['runtime',['../structmetadata__opt__t.html#a58136ace22f20394840fb0fbf90c0846',1,'metadata_opt_t']]]
+];
